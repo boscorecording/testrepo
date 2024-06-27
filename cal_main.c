@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <arithmetic.h>
 
+/* you want to do that */
 int main(int argc, char *argv[])
 {
     int a = atoi(argv[1]);
